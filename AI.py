@@ -3,7 +3,7 @@ import speech_recognition as sr
 import pyttsx3
 
 # Set up Gemini API Key
-genai.configure(api_key="AIzaSyC8qBdl58LQXDJGw0Eaaw5zB7Ts6PI0edU")
+genai.configure(api_key="API")
 
 # Initialize Speech Recognizer
 r = sr.Recognizer()
